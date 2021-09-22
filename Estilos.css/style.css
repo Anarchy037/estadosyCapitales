@@ -1,0 +1,27 @@
+body {
+    background-color: #383838;
+    text-align: center;
+    margin: 250px auto;
+}
+
+h1, p {
+    color: whitesmoke;   
+}
+
+.titulo1 {
+    font-size: 80px;
+    padding-bottom: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulo2 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+
+a :hover {
+    background-color: black;
+    color: white;
+
+}
